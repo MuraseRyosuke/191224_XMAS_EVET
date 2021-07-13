@@ -4,7 +4,6 @@
 
 北海道科学大学キャンパス・イルミネーション2019で使用したインスタレーションtoe
 
-### roiveswst_ppv.mp4
+https://user-images.githubusercontent.com/31121735/125482114-7040c628-0dd8-443e-a173-596f73a5b9f3.mp4
 
-北海道科学大学卒業研究発表会で使用したプレゼンテーションmp4
 
