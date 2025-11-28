@@ -17,3 +17,4 @@ https://user-images.githubusercontent.com/31121735/125482114-7040c628-0dd8-443e-
 > 当時の記録として保存しており、現在はメンテナンスを行っていません。最新バージョンのTouchDesignerでは正常に動作しない可能性がありますのでご注意ください。
 
 ---
+- **Built with:** TouchDesigner 099 (Build 2019.20140)
